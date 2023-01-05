@@ -86,3 +86,24 @@ section h2 {
   background-color: rgb(74, 185, 148);
   color: white;
 }
+#economia {
+  background-color: rgb(241, 219, 191);
+}
+#economia .articles article a {
+  background-color:rgb(74, 185, 148);
+  color: white;
+}
+#tecnologia {
+  background-color: aliceblue;
+}
+#tecnologia .articles article a {
+  background-color: rgb(74, 185, 148);
+  color: white;
+}
+#entreterimento {
+  background-color: rgb(211, 199, 199);
+}
+#entreterimento .articles article a {
+  background-color: rgb(74, 185, 148);
+  color: white;
+}
