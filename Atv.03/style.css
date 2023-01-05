@@ -30,6 +30,7 @@ header li a {
 header li a:hover {
   text-decoration: underline;
 }
+/* Configuração das Seções */
 .container {
   /* Difinição do tamanho da pagina */
   width: auto; 
